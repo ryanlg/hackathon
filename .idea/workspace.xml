@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="682c9eef-e42b-46f3-a42f-0143fbea9f77" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/UW SDC Hackathon.iml" afterPath="$PROJECT_DIR$/UW SDC Hackathon.iml" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" afterPath="$PROJECT_DIR$/src/Main.java" />
-    </list>
+    <list default="true" id="682c9eef-e42b-46f3-a42f-0143fbea9f77" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -166,12 +162,12 @@
       <option name="presentableId" value="Default" />
       <updated>1519507818378</updated>
       <workItem from="1519507821646" duration="150000" />
-      <workItem from="1519508555394" duration="697000" />
+      <workItem from="1519508555394" duration="775000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="847000" />
+    <option name="totallyTimeSpent" value="925000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1096" extended-state="6" />
